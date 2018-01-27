@@ -1,0 +1,312 @@
+_____________________________________________________________________
+### car #############################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| drive               |   vehicle           |   vehicle             |
+| race                |   drive             |   truck               |
+| driver              |   race              |   automobile          |
+| engine              |   driver            |   bus                 |
+| vehicle             |   engine            |   motorcycle          |
+| motor               |   truck             |   boat                |
+| front               |   motor             |   engine              |
+| when                |   passenger         |   aircraft            |
+| design              |   use               |   ship                |
+| run                 |   when              |   wagon               |
+| wheel               |   new               |   locomotive          |
+| use                 |   train             |   carriage            |
+| make                |   only              |   equipment           |
+| new                 |   design            |   bicycle             |
+| speed               |   more              |   train               |
+| model               |   have              |   driver              |
+| company             |   be                |   motor               |
+| only                |   wheel             |   product             |
+| get                 |   time              |   building            |
+| end                 |   model             |   plane               |
+=====================================================================
+
+_____________________________________________________________________
+#### bus ############################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| service             |   rail              |   rail                |
+| station             |   service           |   car                 |
+| route               |   route             |   tram                |
+| transit             |   transit           |   vehicle             |
+| passenger           |   passenger         |   truck               |
+| operate             |   station           |   train               |
+| transport           |   car               |   taxi                |
+| rail                |   vehicle           |   automobile          |
+| road                |   traffic           |   bicycle             |
+| train               |   transport         |   subway              |
+| vehicle             |   train             |   service             |
+| line                |   tram              |   freight             |
+| traffic             |   operate           |   passenger           |
+| connect             |   truck             |   railway             |
+| transportation      |   line              |   traffic             |
+| local               |   transportation    |   aircraft            |
+| travel              |   run               |   locomotive          |
+| run                 |   terminal          |   ferry               |
+| airport             |   parking           |   operator            |
+| car                 |   railway           |   route               |
+=====================================================================
+
+_____________________________________________________________________
+#### hospital #######################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| medical             |   medical           |   school              |
+| health              |   university        |   college             |
+| care                |   school            |   clinic              |
+| university          |   city              |   university          |
+| service             |   care              |   museum              |
+| college             |   college           |   center              |
+| institute           |   health            |   hotel               |
+| board               |   where             |   office              |
+| police              |   service           |   church              |
+| city                |   center            |   library             |
+| school              |   home              |   institute           |
+| open                |   house             |   centre              |
+| research            |   new               |   institution         |
+| education           |   centre            |   facility            |
+| worker              |   united            |   building            |
+| state               |   state             |   park                |
+| child               |   board             |   prison              |
+| memorial            |   office            |   house               |
+| public              |   area              |   hall                |
+| house               |   building          |   home                |
+=====================================================================
+
+_____________________________________________________________________
+#### hotel ##########################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| room                |   restaurant        |   restaurant          |
+| restaurant          |   building          |   building            |
+| building            |   room              |   inn                 |
+| house               |   house             |   casino              |
+| street              |   park              |   house               |
+| park                |   street            |   hospital            |
+| city                |   city              |   theatre             |
+| york                |   open              |   theater             |
+| home                |   where             |   apartment           |
+| resort              |   new               |   office              |
+| business            |   london            |   hall                |
+| open                |   home              |   park                |
+| build               |   shop              |   mall                |
+| new                 |   downtown          |   school              |
+| shop                |   office            |   centre              |
+| local               |   area              |   palace              |
+| office              |   casino            |   residence           |
+| hall                |   build             |   museum              |
+| own                 |   local             |   tower               |
+| sell                |   resort            |   resort              |
+=====================================================================
+
+_____________________________________________________________________
+#### gun ############################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| fire                |   fire              |   cannon              |
+| machine             |   rifle             |   rifle               |
+| weapon              |   weapon            |   weapon              |
+| rifle               |   machine           |   artillery           |
+| arm                 |   tank              |   pistol              |
+| ammunition          |   cannon            |   mortar              |
+| artillery           |   artillery         |   missile             |
+| enemy               |   battery           |   tank                |
+| ship                |   ship              |   turret              |
+| carry               |   turret            |   aircraft            |
+| battery             |   arm               |   equipment           |
+| heavy               |   vehicle           |   knife               |
+| tank                |   heavy             |   vehicle             |
+| attack              |   barrel            |   battery             |
+| light               |   mortar            |   sword               |
+| force               |   enemy             |   ammunition          |
+| shoot               |   use               |   firearm             |
+| crew                |   grenade           |   engine              |
+| front               |   light             |   radar               |
+| hand                |   carry             |   car                 |
+=====================================================================
+
+_____________________________________________________________________
+#### bomb ###########################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| explode             |   explode           |   grenade             |
+| attack              |   bombing           |   torpedo             |
+| bomber              |   explosive         |   weapon              |
+| aircraft            |   aircraft          |   explosion           |
+| weapon              |   fire              |   bombing             |
+| bombing             |   attack            |   rocket              |
+| kill                |   explosion         |   explosive           |
+| operation           |   weapon            |   attack              |
+| force               |   bomber            |   fire                |
+| fly                 |   destroy           |   bomber              |
+| target              |   gun               |   damage              |
+| fire                |   ship              |   device              |
+| explosion           |   fly               |   tank                |
+| air                 |   plane             |   ammunition          |
+| destroy             |   operation         |   ordnance            |
+| injure              |   tank              |   strike              |
+| ship                |   air               |   missile             |
+| mission             |   strike            |   shell               |
+| war                 |   kill              |   ball                |
+| carry               |   grenade           |   aircraft            |
+=====================================================================
+
+_____________________________________________________________________
+#### horse ##########################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| race                |   animal            |   cattle              |
+| long                |   race              |   animal              |
+| ride                |   light             |   pig                 |
+| light               |   only              |   dog                 |
+| men                 |   large             |   goat                |
+| day                 |   other             |   motorcycle          |
+| animal              |   man               |   cyclist             |
+| still               |   men               |   cow                 |
+| back                |   breed             |   sheep               |
+| as                  |   when              |   car                 |
+| time                |   dog               |   men                 |
+| when                |   black             |   elephant            |
+| water               |   number            |   bird                |
+| black               |   several           |   cat                 |
+| white               |   red               |   player              |
+| rid                 |   back              |   man                 |
+| man                 |   car               |   bicycle             |
+| great               |   wild              |   athlete             |
+| foot                |   foot              |   artillery           |
+| many                |   day               |   woman               |
+=====================================================================
+
+_____________________________________________________________________
+#### fox ############################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| news                |   cbs               |   nbc                 |
+| television          |   nbc               |   cbs                 |
+| cbs                 |   news              |   abc                 |
+| tv                  |   television        |   smith               |
+| channel             |   abc               |   television          |
+| abc                 |   sport             |   wilson              |
+| broadcast           |   tv                |   warner              |
+| network             |   cnn               |   rabbit              |
+| show                |   network           |   hudson              |
+| sport               |   show              |   williams            |
+| radio               |   espn              |   johnson             |
+| american            |   broadcast         |   deer                |
+| episode             |   american          |   bbc                 |
+| nbc                 |   bbc               |   anderson            |
+| entertainment       |   channel           |   watson              |
+| program             |   radio             |   pearson             |
+| series              |   series            |   cbc                 |
+| night               |   game              |   tv                  |
+| big                 |   black             |   itv                 |
+| host                |   own               |   bennett             |
+=====================================================================
+
+_____________________________________________________________________
+#### table ##########################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| contain             |   different         |   page                |
+| content             |   number            |   template            |
+| need                |   need              |   list                |
+| add                 |   more              |   article             |
+| allow               |   template          |   text                |
+| number              |   size              |   section             |
+| list                |   list              |   column              |
+| require             |   add               |   paragraph           |
+| different           |   reference         |   category            |
+| enough              |   section           |   watchlist           |
+| level               |   other             |   image               |
+| possible            |   single            |   system              |
+| usually             |   content           |   box                 |
+| often               |   page              |   chart               |
+| way                 |   top               |   room                |
+| top                 |   require           |   database            |
+| so                  |   various           |   information         |
+| various             |   article           |   map                 |
+| use                 |   image             |   number              |
+| how                 |   only              |   book                |
+=====================================================================
+
+_____________________________________________________________________
+#### bowl ###########################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| super               |   super             |   super               |
+| nfl                 |   nfl               |   playoff             |
+| game                |   game              |   cup                 |
+| ball                |   football          |   tournament          |
+| season              |   ball              |   championship        |
+| ncaa                |   team              |   game                |
+| yard                |   season            |   trophy              |
+| quarterback         |   ncaa              |   football            |
+| team                |   playoff           |   conference          |
+| championship        |   player            |   league              |
+| basketball          |   tournament        |   final               |
+| sport               |   championship      |   olympics            |
+| pittsburgh          |   bowling           |   wrestling           |
+| touchdown           |   league            |   team                |
+| regular             |   consecutive       |   season              |
+| football            |   quarterback       |   competition         |
+| player              |   win               |   match               |
+| baseball            |   packer            |   softball            |
+| coach               |   match             |   pot                 |
+| conference          |   final             |   tennis              |
+=====================================================================
+
+_____________________________________________________________________
+#### guitar #########################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| bass                |   bass              |   bass                |
+| drum                |   vocal             |   piano               |
+| vocal               |   drum              |   drum                |
+| band                |   piano             |   keyboard            |
+| album               |   keyboard          |   saxophone           |
+| keyboard            |   guitarist         |   violin              |
+| solo                |   solo              |   flute               |
+| guitarist           |   acoustic          |   vocal               |
+| piano               |   saxophone         |   cello               |
+| song                |   instrument        |   instrument          |
+| music               |   music             |   trumpet             |
+| musician            |   electric          |   percussion          |
+| percussion          |   song              |   viola               |
+| acoustic            |   band              |   organ               |
+| sound               |   play              |   music               |
+| play                |   album             |   horn                |
+| record              |   musician          |   solo                |
+| recording           |   sound             |   jazz                |
+| instrument          |   percussion        |   orchestra           |
+| feature             |   feature           |   musician            |
+=====================================================================
+
+_____________________________________________________________________
+#### piano ##########################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur |
+=====================================================================
+| orchestra           |   cello             |   violin              |
+| cello               |   violin            |   cello               |
+| guitar              |   concerto          |   flute               |
+| violin              |   guitar            |   guitar              |
+| bass                |   flute             |   viola               |
+| solo                |   sonata            |   trumpet             |
+| music               |   music             |   keyboard            |
+| composer            |   bass              |   bass                |
+| sonata              |   orchestra         |   saxophone           |
+| vocal               |   solo              |   percussion          |
+| composition         |   saxophone         |   organ               |
+| concerto            |   instrument        |   drum                |
+| drum                |   vocal             |   instrument          |
+| recording           |   composition       |   music               |
+| musical             |   drum              |   horn                |
+| concert             |   symphony          |   choir               |
+| symphony            |   concert           |   vocal               |
+| pianist             |   op                |   orchestra           |
+| song                |   tenor             |   solo                |
+| jazz                |   soloist           |   jazz                |
+=====================================================================
+

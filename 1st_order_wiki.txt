@@ -1,0 +1,312 @@
+____________________________________________________________________________
+#### car ###################################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur        |
+============================================================================
+| turbo1990           |   lapped            |   backfiring +compmod        |
+| brakeman            |   black-on-white    |   demler -compmod            |
+| flatcar             |   hesh              |   gregsten +compmod          |
+| understeer          |   flatcar           |   shuhoku -compmod           |
+| firehawk            |   dynamometer       |   abl1 +compmod              |
+| mid-ohio            |   meineke           |   justus -appos              |
+| brisca              |   parked            |   bargwanna -poss            |
+| quattroporte        |   lifan             |   1-man -amod                |
+| imsa                |   pantry            |   bias +and a poss           |
+| supermini           |   supermini         |   no -one advmod             |
+| trans-am            |   multi-storey      |   boudoir -amod              |
+| rear-wheel          |   recommence        |   estoque -compmod           |
+| cendant             |   rear-wheel        |   aerocar +appos             |
+| subframe            |   boudoir           |   doppelmayr -compmod        |
+| muntz               |   dmu               |   concorde -dep              |
+| dubaku              |   pininfarina       |   iso -of adpobj             |
+| stutz               |   dealership        |   record-contending -compmod |
+| dragster            |   bettenhausen      |   systemas +nsubj            |
+| mannix              |   bergbahn          |   centenaire +appos          |
+| kisn                |   front-facing      |   henchman -with adpobj      |
+============================================================================
+
+_________________________________________________________________________
+#### bus ################################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur     |
+=========================================================================
+| gillig              |   mehadrin          |   草屯 -compmod           |
+| cidco               |   lay-by            |   trw -poss               |
+| rly                 |   apsrtc            |   128-bit -amod           |
+| nfta                |   ksrtc             |   hijack +compmod         |
+| mehadrin            |   double-decker     |   kinnikuman -with adpobj |
+| stn                 |   smrt              |   dual-mode -amod         |
+| vari                |   kalamunda         |   manila-bound -compmod   |
+| townsquare          |   jurong            |   navi +compmod           |
+| dbb                 |   punchbowl         |   routemaster -compmod    |
+| apsrtc              |   coachbuilder      |   upsrtc -) compmod       |
+| guruvayur           |   airside           |   remaining +of adpobj    |
+| repalle             |   buona             |   tgh-3102 -compmod       |
+| tenali              |   three-step        |   jeepneys -conj          |
+| palem               |   tmt               |   double-decker -amod     |
+| kwinana             |   k-series          |   citroën -appos          |
+| chirala             |   mesta             |   amiga -poss             |
+| tmt                 |   wadhurst          |   maynooth -in adpobj     |
+| yvt                 |   chavdar           |   t6h-5305 -compmod       |
+| cityrail            |   lsp               |   build +. under nmod     |
+| kanpur              |   curbside          |   7102-7112 -7643 amod    |
+=========================================================================
+
+________________________________________________________________________
+#### hospital ##########################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur    |
+========================================================================
+| jee                 |   phyathai          |   sant'anna +compmod     |
+| chowk               |   high-security     |   tooting -appos         |
+| caloundra           |   yale-new          |   sentara -compmod       |
+| phyathai            |   lazaro            |   jacob +at adpobj       |
+| mazhar              |   fauji             |   beilison -compmod      |
+| imtiaz              |   kamgar            |   bam -poss              |
+| shalamar            |   addenbrooke       |   roehampton -in adpobj  |
+| buderim             |   corpsmen          |   steevens -poss         |
+| kesar               |   lying-in          |   rademacher +conj       |
+| lazaro              |   centegra          |   d'assise +compmod      |
+| cova                |   shalamar          |   ogikubo +appos         |
+| mullaitivu          |   charleson         |   eclampsia -with adpobj |
+| centegra            |   caloundra         |   runa +compmod          |
+| kamgar              |   broadmoor         |   patient +at adpobj     |
+| zaidi               |   mullaitivu        |   enumclaw -compmod      |
+| yale-new            |   sealy             |   icu +poss              |
+| campinas            |   jee               |   medi-clinic -a adpobj  |
+| sadiq               |   corpsman          |   harofe -compmod        |
+| peacehealth         |   convalescent      |   62-bed -amod           |
+| bhagwan             |   foundling         |   residency +nsubj       |
+========================================================================
+
+___________________________________________________________________________
+#### hotel ################################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur       |
+===========================================================================
+| helmsley            |   ramada            |   jaypee -compmod           |
+| jobean              |   waldorf-astoria   |   banámichi -in adpobj      |
+| otterburn           |   majorna           |   schoolhouse -appos        |
+| cobar               |   hopetoun          |   tollgate -near adpobj     |
+| hopetoun            |   tokio             |   signor +compmod           |
+| ramada              |   jobean            |   d'evreux +compmod         |
+| accor               |   accor             |   save +and with adpobj     |
+| fairmont            |   5-star            |   charleval +compmod        |
+| inter-continental   |   biltmore          |   beach-houses +conj        |
+| castille            |   helmsley          |   barmaid +at adpobj        |
+| radisson            |   radisson          |   surrendra -compmod        |
+| bunder              |   fairmont          |   wereld +compmod           |
+| oberoi              |   statler           |   era -amod                 |
+| dumbfound           |   sheraton          |   michelangelo -with adpobj |
+| apeejay             |   bellhop           |   hamman -compmod           |
+| shanker             |   swynford          |   bed-and-breakfast -conj   |
+| statler             |   otterburn         |   marriott -poss            |
+| 5-star              |   cocoanut          |   suite +at adpobj          |
+| malmaison           |   bunder            |   jolson -) compmod         |
+| waldorf-astoria     |   kampot            |   real-estate +compmod      |
+===========================================================================
+
+_________________________________________________________________________
+#### gun ################################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur     |
+=========================================================================
+| 6-pounder           |   submachine        |   hk21 -compmod           |
+| counter-battery     |   12-pounder        |   broken +conj            |
+| 12-pounder          |   sub-machine       |   zuwanie -compmod        |
+| bonnabel            |   6-pounder         |   corrode -amod           |
+| kwk                 |   24-pounder        |   m145 -compmod           |
+| airsoft             |   18-pounder        |   heke -of adpobj         |
+| submachine          |   kunai             |   bazooka -conj           |
+| lsat                |   6-inch            |   standard-issued -amod   |
+| kajal               |   gatling           |   battleship -poss        |
+| sub-machine         |   navarone          |   stockade +conj          |
+| vaunted             |   bofors            |   pom-pom -amod           |
+| chanfle             |   airsoft           |   56-calibre -amod        |
+| delacorte           |   pdr               |   anzu -poss              |
+| stunner             |   pounder           |   grandaddy -poss         |
+| dailly              |   kwk               |   upgrade +unlike adpobj  |
+| rifling             |   disappearing      |   exhort +parataxis       |
+| 24-pounder          |   screener          |   9-pounder -compmod      |
+| gatling             |   meroka            |   pointed +compmod        |
+| longer-range        |   french-style      |   field-emission -compmod |
+| stier               |   melara            |   sten -compmod           |
+=========================================================================
+
+__________________________________________________________________________
+#### bomb ################################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur      |
+==========================================================================
+| rira                |   laser-guided      |   ddi +xcomp               |
+| b-17s               |   catholic-owned    |   explode +. nsubj         |
+| referer             |   dubica            |   kwai -) '' to adpobj     |
+| laser-guided        |   discotheque       |   m114 -compmod            |
+| ridgewell           |   rira              |   hiroshima -on adpobj     |
+| mockingjay          |   incendiary        |   homs +appos              |
+| tiberium            |   ciaculli          |   sidon -near adpobj       |
+| riyaz               |   detonate          |   hamidi -nsubj            |
+| floridsdorf         |   boldak            |   thundercrash -compmod    |
+| catholic-owned      |   penrhos           |   edirne -) compmod        |
+| peard               |   tiberium          |   blame +and               |
+| u-235               |   cyrax             |   nsubjpass                |
+| murtagh             |   jra               |   dunadry -at adpobj       |
+| dubica              |   floridsdorf       |   destructive +than adpobj |
+| incendiary          |   thermobaric       |   booby-trap -compmod      |
+| discotheque         |   384th             |   arashio -nsubjpass       |
+| grass-covered       |   getxo             |   speaks +than adpobj      |
+| narathiwat          |   riyaz             |   pambansa -nsubj          |
+| alawite             |   leros             |   discotheque +partmod     |
+| wia                 |   u-235             |   legionaria -compmod      |
+==========================================================================
+
+_______________________________________________________________________
+#### horse ############################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur   |
+=======================================================================
+| aqha                |   halter            |   cobalt -appos         |
+| mérens              |   racking           |   mackerel +compmod     |
+| halter              |   raku              |   ride -) nsubj         |
+| rimington           |   eridani           |   eligibilitya -compmod |
+| broadwood           |   three-toed        |   choose +we appos      |
+| non-black           |   przewalski        |   arbia +appos          |
+| przewalski          |   equus             |   agistment +compmod    |
+| crabbet             |   thoroughbred      |   sabol -poss           |
+| facepalm            |   rimington         |   buckskin -amod        |
+| in-tune             |   aqha              |   hoof +of adpobj       |
+| bongaigaon          |   free-roaming      |   puer -conj            |
+| kipchaks            |   partook           |   uroski +compmod       |
+| lameness            |   baidu             |   bedchamber +of adpobj |
+| appaloosa           |   well-stocked      |   bear +whereas adpobj  |
+| free-roaming        |   nanba             |   baike +compmod        |
+| snaffle             |   talked            |   rack -amod            |
+| sunline             |   uffington         |   dreaming +, cc        |
+| racking             |   snaffle           |   foot-soldiers +conj   |
+| eridani             |   mhow              |   vie +. nsubj          |
+| ahd                 |   unabashed         |   danny +for adpobj     |
+=======================================================================
+
+__________________________________________________________________________
+#### fox #################################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur      |
+==========================================================================
+| vulpes              |   vulpes            |   kstu -compmod            |
+| yardbarker          |   shephard          |   stylise +nsubj           |
+| re-branding         |   movietone         |   babysitting -in adpobj   |
+| español             |   ioway             |   macnaghten -conj         |
+| mentzel             |   three-player      |   scriptwriter +for adpobj |
+| fennec              |   gelbart           |   ambar -compmod           |
+| open-wheel          |   cluck             |   toledo -dep              |
+| movietone           |   ghyll             |   rigdon -conj             |
+| o'lakes             |   retransmission    |   quolls -conj             |
+| now-extinct         |   partage           |   stafford +poss           |
+| ioway               |   mid-days          |   havel -appos             |
+| mudge               |   wjw               |   stylise +a adpobj        |
+| ailes               |   dailey            |   screenwriter -amod       |
+| meskwaki            |   vivica            |   bas-relief -conj         |
+| sportschannel       |   macrotis          |   ruffy -conj              |
+| macrotis            |   meskwaki          |   arent -compmod           |
+| brighstone          |   speedster         |   ishee -conj              |
+| johar               |   racoon            |   gelbart -by adpobj       |
+| rebrand             |   passe             |   picture +around adpobj   |
+| shephard            |   kickapoo          |   menominee -conj          |
+==========================================================================
+
+___________________________________________________________________________
+#### table ################################################################
+| sentence co-occur   |   window co-occur    |   dependency co-occur      |
+===========================================================================
+| carpianum           |   eusebian           |   suitable +than adpobj    |
+| epistula            |   per-process        |   head +against adpobj     |
+| menologion          |   carpianum          |   transter -compmod        |
+| eusebian            |   κεφαλαια           |   perpose +of adpobj       |
+| transmissivity      |   carom              |   clutter +nsubjpass       |
+| carom               |   prolegomenon       |   material +below adpobj   |
+| cath                |   sortable           |   non-sortable -amod       |
+| synaxarion          |   ping-pong          |   72nd +on adpobj          |
+| κεφαλαια            |   multiway           |   compact +to adpobj       |
+| avoirdupois         |   oblation           |   carom -compmod           |
+| sortable            |   ideacentre         |   eaton -on adpobj         |
+| sandry              |   duodecim           |   arthur +of adpobj        |
+| chlorinated         |   sublet             |   regiomontanus -of adpobj |
+| eniac               |   campan             |   wager -on adpobj         |
+| chopstick           |   comely             |   sprawl +onto adpobj      |
+| oblation            |   bee-keeping        |   require +via adpobj      |
+| duodecim            |   cookout            |   half-broken -amod        |
+| mascarita           |   unscrew            |   key +below adpobj        |
+| İy                  |   multi-column       |   msaccess -compmod        |
+| splenic             |   bcnf               |   alsos +to adpobj         |
+===========================================================================
+
+________________________________________________________________________
+#### bowl ##############################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur    |
+========================================================================
+| xlvi                |   xlii              |   minnett -by adpobj     |
+| xlii                |   xlvi              |   offense-defense -amod  |
+| kamurocho           |   xxxvi             |   shreveport -; nsubj    |
+| non-bcs             |   bauhinia          |   in +1985 conj          |
+| xliii               |   xliii             |   cuba-situated -compmod |
+| xxxviii             |   allendorf         |   yorker -a adpobj       |
+| grambling           |   xlviii            |   worcestershire -dobj   |
+| xxxiv               |   xxxix             |   begging -compmod       |
+| xxxix               |   xliv              |   neither +in adpobj     |
+| xliv                |   right-arm         |   candlepin +partmod     |
+| xxxv                |   xxxiv             |   slider +partmod        |
+| bowl-eligible       |   xxxviii           |   chiley -of adpobj      |
+| xxxvi               |   xxviii            |   kickoff -rcmod         |
+| 11-2                |   mid-major         |   average -30 amod       |
+| mid-major           |   googly            |   bowl -; nsubj          |
+| bcs                 |   poinsettia        |   flatland +conj         |
+| okie                |   bbva              |   tub -appos             |
+| bruschi             |   xlvii             |   amenity +a adpcomp     |
+| 27-20               |   fiesta            |   afridi -by adpobj      |
+========================================================================
+
+________________________________________________________________________
+#### guitar ############################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur    |
+========================================================================
+| endorsee            |   endorsee          |   quartet +on adpobj     |
+| jy                  |   antoniou          |   unpopular +nsubj       |
+| 12-string           |   corabi            |   ren -for adpobj        |
+| cott                |   vikernes          |   schmidt +on adpobj     |
+| sumlin              |   sumlin            |   6-string -amod         |
+| tedesco             |   12-string         |   tym -compmod           |
+| telecaster          |   telecaster        |   dual-pickup -amod      |
+| flat-top            |   rade              |   dulcimer +conj         |
+| marković            |   halberg           |   freight -behind adpobj |
+| zarsoff             |   marković          |   consist +. ) compmod   |
+| blažević            |   vojin             |   piano -against adpobj  |
+| vojin               |   fingering         |   taylor +on adpobj      |
+| chanfle             |   kazoo             |   pickup +from adpobj    |
+| stratocaster        |   jy                |   jamz -compmod          |
+| armiger             |   quartermain       |   shimmer +of adpobj     |
+| plectrum            |   la-based          |   harmonium -conj        |
+| fretless            |   kraka             |   sumlin +appos          |
+| rade                |   fretless          |   gerstner -compmod      |
+| double-bass         |   sarasate          |   kennemore +and         |
+| epiphone            |   mclagan           |   ) compmod              |
+========================================================================
+
+________________________________________________________________________
+#### piano #############################################################
+| sentence co-occur   |   window co-occur   |   dependency co-occur    |
+========================================================================
+| zarsoff             |   b-3               |   infantiles +for adpobj |
+| fortepiano          |   fortepiano        |   katin -compmod         |
+| clynes              |   concertino        |   spann +) compmod       |
+| newmark             |   stainer           |   naturhorn -conj        |
+| octogenarian        |   cliburn           |   den +for adpobj        |
+| topol               |   infantiles        |   l +for adpobj          |
+| eroica              |   beltran           |   bass-clarinet +conj    |
+| b-3                 |   pintura           |   lapsteel -conj         |
+| moscheles           |   cortot            |   artem +conj            |
+| bonetti             |   bonetti           |   fortepiano -conj       |
+| helfgott            |   mieczyslaw        |   enter +) ) compmod     |
+| rienzi              |   kazoo             |   sohne -compmod         |
+| extraordinaire      |   skittish          |   campanelli -compmod    |
+| yasunori            |   chaconne          |   mime +to adpobj        |
+| l'academie          |   kuepper           |   hay +on adpobj         |
+| mieczyslaw          |   renzo             |   perfomers +on adpobj   |
+| parkins             |   bjørklund         |   pices +compmod         |
+| benmont             |   perpetuo          |   storaas -compmod       |
+| tóth                |   parkins           |   nickrenz +appos        |
+| schonberg           |   benmont           |   mclagan -of adpobj     |
+========================================================================
+
+
